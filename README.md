@@ -89,11 +89,11 @@ Example fisheye removal for GoPro/Mobius
 
 ```ffmpeg -i <inputfile> -vf frei0r=defish0r:0.8:y:0.6:0 -vcodec libx264 -pix_fmt yuv420p -acodec copy <outputfile.mp4>```
 
-![Example of cleaned up image](https://github.com/rtgoodwin/ffmpeg-build-script-plus-frei0r-freetype/blob/master/compare.png)
+![Example of cleaned up image](https://github.com/namndev/ffmpeg-build-unix/blob/main/compare.png?raw=true)
 
 and another
 
-![Example of cleaned up image](https://github.com/rtgoodwin/ffmpeg-build-script-plus-frei0r-freetype/blob/master/compare2.png)
+![Example of cleaned up image](https://github.com/namndev/ffmpeg-build-unix/blob/main/compare2.png?raw=true)
 
 (Blur at edges is in the original video; keep those lenses clean, people! :) )
 
