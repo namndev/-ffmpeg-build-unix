@@ -67,16 +67,6 @@ Usage
 ./build-ffmpeg --cleanup    Remove all working dirs
 ```
 
-
-Contact
--------
-
-You can file an issue on this repo; or tweet @zohar; or E-Mail at z [dot] babin (@) gmail .
-
-If you'd like to contact the original creators:
-* Github: [http://www.github.com/markus-perl](http://www.github.com/markus-perl)
-* Github: [https://github.com/rtgoodwin](https://github.com/rtgoodwin)
-
 Tested on
 ---------
 
@@ -257,3 +247,8 @@ The frei0r plugins can be found here: /Users/zohar.babin/Downloads/ffmpeg-build/
 
 Copy frei0r plugins to your /usr/local/lib/frei0r-1 folder [Y/n]
 ```
+
+ 
+
+## [Another FFmpeg Tricks](https://www.namndev.com/2020-08-03-ffmpeg-tricks)
+
